@@ -8,7 +8,9 @@ function App() {
       <header className="App-header">
         
       </header>
+      <ButtonToolbar>
       <Button variant="primary">Primary</Button>
+        </ButtonToolbar>
     </div>
   );
 }
