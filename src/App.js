@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Button from 'react-bootstrap/Button';
+import { Button } from 'react-bootstrap';
 
 function App() {
   return (
@@ -8,9 +8,9 @@ function App() {
       <header className="App-header">
         
       </header>
-      <ButtonToolbar>
+     
       <Button variant="primary">Primary</Button>
-        </ButtonToolbar>
+       
     </div>
   );
 }
