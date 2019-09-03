@@ -8,12 +8,14 @@ import GlobalHeader from '../components/globalheader';
 
 const Home = () => (
   <div>
-     <GlobalHeader title=""Home/>
+     <GlobalHeader title="Home"/>
     <Nav/>
     
-    <a type="button" href="/section-1" className="btn btn-primary btn-lg btn-block">Section 1</a>
-    <div className="container">
-    <button type="button" className="btn btn-primary btn-block">Large button</button>
+    
+    <div className="container mt-2">
+    <a type="button" href="/section-1" className="btn btn-primary m-2">Section 1</a>
+    <a type="button" href="/section-2" className="btn btn-primary m-2">Section 2</a>
+    
     </div>
 
 
