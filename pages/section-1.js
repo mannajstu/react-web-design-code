@@ -82,14 +82,18 @@ class About extends Component {
       .blog-box-bg-1 {
         
         background-image: url("/static/background-1.jpg");
+        background-repeat: no-repeat;
         padding:10px;
+        
        
       }
       .blog-box-bg{
         height: 200px;
         width: 100%;
-        object-fit: contain;
+        
         margin-bottom:15px;
+        background-position: center center;
+        background-size: contain;
       }
       .blog-meta i{
         color:red;        
