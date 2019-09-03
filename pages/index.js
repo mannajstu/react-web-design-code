@@ -1,17 +1,17 @@
 import React from 'react'
 import Link from 'next/link'
-import Head from 'next/head'
+
 import Nav from '../components/nav'
+import GlobalHeader from '../components/globalheader';
+
 
 
 const Home = () => (
   <div>
-     <Head>
-     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"  />
-     </Head>
+     <GlobalHeader title=""Home/>
+    <Nav/>
     
-    <Nav />
-    <button type="button" className="btn btn-primary btn-lg btn-block">Large button</button>
+    <a type="button" href="/section-1" className="btn btn-primary btn-lg btn-block">Section 1</a>
 <button type="button" className="btn btn-primary btn-lg btn-block">Large button</button>
 
     

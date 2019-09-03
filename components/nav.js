@@ -1,19 +1,9 @@
 import React from 'react'
 import Link from 'next/link'
-import About from '../pages/about';
-
-
-const links = [
-  { href: 'https://zeit.co/now', label: 'ZEIT' },
-  { href: 'https://github.com/zeit/next.js', label: 'GitHub' }
-].map(link => {
-  link.key = `nav-link-${link.href}-${link.label}`
-  return link
-})
 
 const Nav = () => (
   <nav>
-    
+    <a type="button" href="/" className="btn btn-danger btn-lg btn-block">Home</a>
 
     <style jsx>{`
       
