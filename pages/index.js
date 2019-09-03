@@ -12,7 +12,10 @@ const Home = () => (
     <Nav/>
     
     <a type="button" href="/section-1" className="btn btn-primary btn-lg btn-block">Section 1</a>
-<button type="button" className="btn btn-primary btn-lg btn-block">Large button</button>
+    <div className="container">
+    <button type="button" className="btn btn-primary btn-block">Large button</button>
+    </div>
+
 
     
     
