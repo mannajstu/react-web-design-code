@@ -1,7 +1,10 @@
 import React from 'react'
-import Link from 'next/link'
+
 
 const Nav = () => (
+  <header>
+
+  
   <nav>
     <a type="button" href="/" className="btn btn-danger btn-lg btn-block">Home</a>
 
@@ -13,6 +16,7 @@ const Nav = () => (
       
     `}</style>
   </nav>
+  </header>
 )
 
 export default Nav

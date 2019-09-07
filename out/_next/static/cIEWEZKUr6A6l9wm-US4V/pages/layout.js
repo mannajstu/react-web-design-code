@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{H3qJ:function(n,o){},J704:function(n,o,w){(window.__NEXT_P=window.__NEXT_P||[]).push(["/layout",function(){var n=w("H3qJ");return{page:n.default||n}}])}},[["J704",0]]]);
