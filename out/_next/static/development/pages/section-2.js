@@ -5119,7 +5119,7 @@ function (_Component) {
 
 /***/ }),
 
-/***/ 2:
+/***/ 0:
 /*!****************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fsection-2&absolutePagePath=E%3A%5Cxamp%2018%5Chtdocs%5Clive-server%5Creact-web-design-code%5Cpages%5Csection-2.js ***!
   \****************************************************************************************************************************************************************/
@@ -5142,5 +5142,5 @@ module.exports = dll_01f9a3fa864a7b7414d8;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=section-2.js.map
