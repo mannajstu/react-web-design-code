@@ -4,7 +4,7 @@ import Section3 from '../components/section-3';
 import Layout from '../components/layout';
 
 
-class About extends Component {
+class Page extends Component {
   render() {
     return (
       <div>
@@ -23,4 +23,4 @@ class About extends Component {
     )
   }
 }
-export default About
+export default Page

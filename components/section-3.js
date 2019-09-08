@@ -24,7 +24,7 @@ class Section1 extends Component {
 <div className="price-icon">
 <i className="fa fa-user-circle-o fa-5x" aria-hidden="true"></i>
 </div>
-<div className="price-service-list">
+<div className="price-service-list d-flex justify-content-center">
   <ul>
     <li> <i className="fa fa-check" aria-hidden="true"></i>2 GB Web Space</li>
     <li> <i className="fa fa-times" aria-hidden="true"></i>Free Domain Register</li>
@@ -45,7 +45,7 @@ class Section1 extends Component {
 <div className="price-icon">
 <i className="fa fa-user-circle-o fa-5x" aria-hidden="true"></i>
 </div>
-<div className="price-service-list">
+<div className="price-service-list d-flex justify-content-center">
   <ul>
     <li> <i className="fa fa-check" aria-hidden="true"></i>2 GB Web Space</li>
     <li> <i className="fa fa-times" aria-hidden="true"></i>Free Domain Register</li>
@@ -66,7 +66,7 @@ class Section1 extends Component {
 <div className="price-icon">
 <i className="fa fa-user-circle-o fa-5x" aria-hidden="true"></i>
 </div>
-<div className="price-service-list">
+<div className="price-service-list d-flex justify-content-center">
   <ul>
     <li> <i className="fa fa-check" aria-hidden="true"></i>2 GB Web Space</li>
     <li> <i className="fa fa-times" aria-hidden="true"></i>Free Domain Register</li>
