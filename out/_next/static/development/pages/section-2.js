@@ -5102,7 +5102,16 @@ function (_Component) {
           lineNumber: 9
         },
         __self: this
-      }, __jsx(_components_section_2__WEBPACK_IMPORTED_MODULE_7__["default"], {
+      }, __jsx("a", {
+        type: "button",
+        href: "/section-3",
+        className: "btn btn-primary m-2 ",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 10
+        },
+        __self: this
+      }, "Next Section"), __jsx(_components_section_2__WEBPACK_IMPORTED_MODULE_7__["default"], {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 11
@@ -5119,7 +5128,7 @@ function (_Component) {
 
 /***/ }),
 
-/***/ 0:
+/***/ 2:
 /*!****************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fsection-2&absolutePagePath=E%3A%5Cxamp%2018%5Chtdocs%5Clive-server%5Creact-web-design-code%5Cpages%5Csection-2.js ***!
   \****************************************************************************************************************************************************************/
@@ -5142,5 +5151,5 @@ module.exports = dll_01f9a3fa864a7b7414d8;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=section-2.js.map

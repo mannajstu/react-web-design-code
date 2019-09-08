@@ -1,4 +1,4 @@
-(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\section-1.js"],{
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\section-3.js"],{
 
 /***/ "./components/globalheader.js":
 /*!************************************!*\
@@ -184,9 +184,9 @@ var Nav = function Nav() {
 
 /***/ }),
 
-/***/ "./components/section-1.js":
+/***/ "./components/section-3.js":
 /*!*********************************!*\
-  !*** ./components/section-1.js ***!
+  !*** ./components/section-3.js ***!
   \*********************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -202,18 +202,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_6__);
-/* harmony import */ var _nav__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./nav */ "./components/nav.js");
-/* harmony import */ var _globalheader__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./globalheader */ "./components/globalheader.js");
 
 
 
 
 
-var _jsxFileName = "E:\\xamp 18\\htdocs\\live-server\\react-web-design-code\\components\\section-1.js";
+var _jsxFileName = "E:\\xamp 18\\htdocs\\live-server\\react-web-design-code\\components\\section-3.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement;
-
-
 
 
 var Section1 =
@@ -231,339 +227,596 @@ function (_Component) {
     key: "render",
     value: function render() {
       return __jsx("div", {
-        className: "jsx-3978322762",
+        className: "jsx-1027468203",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 9
+          lineNumber: 6
         },
         __self: this
       }, __jsx("div", {
         style: {
           marginBottom: 30 + 'px'
         },
-        className: "jsx-3978322762" + " " + "container",
+        className: "jsx-1027468203" + " " + "container",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 8
+        },
+        __self: this
+      }, __jsx("div", {
+        className: "jsx-1027468203" + " " + 'row ',
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, __jsx("div", {
+        className: "jsx-1027468203" + " " + 'col-md-12 text-center mb-3',
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 10
+        },
+        __self: this
+      }, __jsx("div", {
+        className: "jsx-1027468203" + " " + "section-title",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 11
         },
         __self: this
-      }, __jsx("div", {
-        className: "jsx-3978322762" + " " + 'row ',
+      }, __jsx("h2", {
+        className: "jsx-1027468203",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 12
         },
         __self: this
-      }, __jsx("div", {
-        className: "jsx-3978322762" + " " + 'col-md-12 text-center',
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 13
-        },
-        __self: this
-      }, __jsx("div", {
-        className: "jsx-3978322762" + " " + "section-title",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 14
-        },
-        __self: this
-      }, __jsx("h2", {
-        className: "jsx-3978322762",
+      }, "Pricing Plan")), __jsx("p", {
+        className: "jsx-1027468203",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 15
         },
         __self: this
-      }, "Latesr News")), __jsx("p", {
-        className: "jsx-3978322762",
+      }, "Lorem ipsum dolor sit amet consectetur adipisicing elit."))), __jsx("div", {
+        className: "jsx-1027468203" + " " + "row",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 18
         },
         __self: this
-      }, "---------------"), __jsx("p", {
-        className: "jsx-3978322762",
+      }, __jsx("div", {
+        className: "jsx-1027468203" + " " + "col-md-3 col-sm-6",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 19
         },
         __self: this
-      }, "Lorem ipsum dolor sit amet consectetur adipisicing elit."))), __jsx("div", {
-        className: "jsx-3978322762" + " " + "row",
+      }, __jsx("div", {
+        className: "jsx-1027468203" + " " + "price-section",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 22
+          lineNumber: 20
         },
         __self: this
-      }, __jsx("div", {
-        className: "jsx-3978322762" + " " + "col-md-4",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 23
-        },
-        __self: this
-      }, __jsx("div", {
-        className: "jsx-3978322762" + " " + "single-blog-box",
+      }, __jsx("h3", {
+        className: "jsx-1027468203",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 23
         },
         __self: this
-      }, __jsx("div", {
-        className: "jsx-3978322762" + " " + "blog-box-bg blog-box-bg-1",
+      }, "Personal"), __jsx("div", {
+        className: "jsx-1027468203" + " " + "price-icon",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 24
         },
         __self: this
-      }), __jsx("div", {
-        className: "jsx-3978322762" + " " + "blog-box-content",
+      }, __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-user-circle-o fa-5x",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 25
         },
         __self: this
-      }, __jsx("p", {
-        className: "jsx-3978322762" + " " + "blog-meta",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 26
-        },
-        __self: this
-      }, __jsx("a", {
-        href: "#",
-        className: "jsx-3978322762",
+      })), __jsx("div", {
+        className: "jsx-1027468203" + " " + "price-service-list",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 27
         },
         __self: this
-      }, __jsx("i", {
-        "aria-hidden": "true",
-        className: "jsx-3978322762" + " " + "fa fa-user",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 27
-        },
-        __self: this
-      }), "Fahmid hossian"), __jsx("i", {
-        "aria-hidden": "true",
-        className: "jsx-3978322762" + " " + "fa fa-calendar",
+      }, __jsx("ul", {
+        className: "jsx-1027468203",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 28
         },
         __self: this
-      }), "22 DEC,2019"), __jsx("h3", {
-        className: "jsx-3978322762",
+      }, __jsx("li", {
+        className: "jsx-1027468203",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 29
+        },
+        __self: this
+      }, " ", __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-check",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 29
+        },
+        __self: this
+      }), "2 GB Web Space"), __jsx("li", {
+        className: "jsx-1027468203",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 30
         },
         __self: this
-      }, "Lorem, ipsum dolor sit amet consectetur adipisicing elit.            "), __jsx("div", {
-        className: "jsx-3978322762" + " " + "blog-content",
+      }, " ", __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-times",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 30
+        },
+        __self: this
+      }), "Free Domain Register"), __jsx("li", {
+        className: "jsx-1027468203" + " " + "disable",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 31
         },
         __self: this
-      }, __jsx("p", {
-        className: "jsx-3978322762" + " " + "text-justify",
+      }, " ", __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-check",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 31
+        },
+        __self: this
+      }), "Special Offer"), __jsx("li", {
+        className: "jsx-1027468203",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 32
         },
         __self: this
-      }, "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa iste itaque dignissimos unde, quia fugiat quae aliquam voluptate magni mollitia hic magnam at repudiandae reiciendis consequatur ipsum. Modi, iure mollitia?"), __jsx("a", {
-        href: "#",
-        className: "jsx-3978322762" + " " + "blog-read-more",
+      }, " ", __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-times",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 33
+          lineNumber: 32
         },
         __self: this
-      }, "Read more"))))), __jsx("div", {
-        className: "jsx-3978322762" + " " + "col-md-4",
+      }), "Service Uptime"))), __jsx("div", {
+        className: "jsx-1027468203" + " " + "price text-center",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 38
+          lineNumber: 35
         },
         __self: this
-      }, __jsx("div", {
-        className: "jsx-3978322762" + " " + "single-blog-box",
+      }, __jsx("h5", {
+        className: "jsx-1027468203",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 38
+          lineNumber: 35
         },
         __self: this
-      }, __jsx("div", {
-        className: "jsx-3978322762" + " " + "blog-box-bg blog-box-bg-1",
+      }, "$15/Mo"), __jsx("button", {
+        type: "submit",
+        className: "jsx-1027468203",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 39
+          lineNumber: 36
         },
         __self: this
-      }), __jsx("div", {
-        className: "jsx-3978322762" + " " + "blog-box-content",
+      }, "Order Now")))), __jsx("div", {
+        className: "jsx-1027468203" + " " + "col-md-3 col-sm-6",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 40
         },
         __self: this
-      }, __jsx("p", {
-        className: "jsx-3978322762" + " " + "blog-meta",
+      }, __jsx("div", {
+        className: "jsx-1027468203" + " " + "price-section",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 41
         },
         __self: this
-      }, __jsx("a", {
-        href: "#",
-        className: "jsx-3978322762",
+      }, __jsx("h3", {
+        className: "jsx-1027468203",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 42
+          lineNumber: 44
         },
         __self: this
-      }, __jsx("i", {
-        "aria-hidden": "true",
-        className: "jsx-3978322762" + " " + "fa fa-user",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 42
-        },
-        __self: this
-      }), "Fahmid hossian"), __jsx("i", {
-        "aria-hidden": "true",
-        className: "jsx-3978322762" + " " + "fa fa-calendar",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 43
-        },
-        __self: this
-      }), "22 DEC,2019"), __jsx("h3", {
-        className: "jsx-3978322762",
+      }, "Personal"), __jsx("div", {
+        className: "jsx-1027468203" + " " + "price-icon",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 45
         },
         __self: this
-      }, "Lorem, ipsum dolor sit amet consectetur adipisicing elit.            "), __jsx("div", {
-        className: "jsx-3978322762" + " " + "blog-content",
+      }, __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-user-circle-o fa-5x",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 46
         },
         __self: this
-      }, __jsx("p", {
-        className: "jsx-3978322762" + " " + "text-justify",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 47
-        },
-        __self: this
-      }, "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa iste itaque dignissimos unde, quia fugiat quae aliquam voluptate magni mollitia hic magnam at repudiandae reiciendis consequatur ipsum. Modi, iure mollitia?"), __jsx("a", {
-        href: "#",
-        className: "jsx-3978322762" + " " + "blog-read-more",
+      })), __jsx("div", {
+        className: "jsx-1027468203" + " " + "price-service-list",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 48
         },
         __self: this
-      }, "Read more"))))), __jsx("div", {
-        className: "jsx-3978322762" + " " + "col-md-4",
+      }, __jsx("ul", {
+        className: "jsx-1027468203",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 49
+        },
+        __self: this
+      }, __jsx("li", {
+        className: "jsx-1027468203",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 50
+        },
+        __self: this
+      }, " ", __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-check",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 50
+        },
+        __self: this
+      }), "2 GB Web Space"), __jsx("li", {
+        className: "jsx-1027468203",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 51
+        },
+        __self: this
+      }, " ", __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-times",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 51
+        },
+        __self: this
+      }), "Free Domain Register"), __jsx("li", {
+        className: "jsx-1027468203" + " " + "disable",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 52
+        },
+        __self: this
+      }, " ", __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-check",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 52
+        },
+        __self: this
+      }), "Special Offer"), __jsx("li", {
+        className: "jsx-1027468203",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 53
         },
         __self: this
-      }, __jsx("div", {
-        className: "jsx-3978322762" + " " + "single-blog-box",
+      }, " ", __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-times",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 53
         },
         __self: this
-      }, __jsx("div", {
-        className: "jsx-3978322762" + " " + "blog-box-bg blog-box-bg-1",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 54
-        },
-        __self: this
-      }), __jsx("div", {
-        className: "jsx-3978322762" + " " + "blog-box-content",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 55
-        },
-        __self: this
-      }, __jsx("p", {
-        className: "jsx-3978322762" + " " + "blog-meta",
+      }), "Service Uptime"))), __jsx("div", {
+        className: "jsx-1027468203" + " " + "price text-center",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 56
         },
         __self: this
-      }, __jsx("a", {
-        href: "#",
-        className: "jsx-3978322762",
+      }, __jsx("h5", {
+        className: "jsx-1027468203",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 56
+        },
+        __self: this
+      }, "$15/Mo"), __jsx("button", {
+        type: "submit",
+        className: "jsx-1027468203",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 57
         },
         __self: this
-      }, __jsx("i", {
-        "aria-hidden": "true",
-        className: "jsx-3978322762" + " " + "fa fa-user",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 57
-        },
-        __self: this
-      }), "Fahmid hossian"), __jsx("i", {
-        "aria-hidden": "true",
-        className: "jsx-3978322762" + " " + "fa fa-calendar",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 58
-        },
-        __self: this
-      }), "22 DEC,2019"), __jsx("h3", {
-        className: "jsx-3978322762",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 60
-        },
-        __self: this
-      }, "Lorem, ipsum dolor sit amet consectetur adipisicing elit.            "), __jsx("div", {
-        className: "jsx-3978322762" + " " + "blog-content",
+      }, "Order Now")))), __jsx("div", {
+        className: "jsx-1027468203" + " " + "col-md-3 col-sm-6",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 61
         },
         __self: this
-      }, __jsx("p", {
-        className: "jsx-3978322762" + " " + "text-justify",
+      }, __jsx("div", {
+        className: "jsx-1027468203" + " " + "price-section",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 62
         },
         __self: this
-      }, "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa iste itaque dignissimos unde, quia fugiat quae aliquam voluptate magni mollitia hic magnam at repudiandae reiciendis consequatur ipsum. Modi, iure mollitia?"), __jsx("a", {
-        href: "#",
-        className: "jsx-3978322762" + " " + "blog-read-more",
+      }, __jsx("h3", {
+        className: "jsx-1027468203",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 63
+          lineNumber: 65
         },
         __self: this
-      }, "Read more"))))))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a, {
-        id: "3978322762",
+      }, "Personal"), __jsx("div", {
+        className: "jsx-1027468203" + " " + "price-icon",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 66
+        },
         __self: this
-      }, ".single-blog-box.jsx-3978322762{padding:10px;}.single-blog-box.jsx-3978322762:hover{border:.2px solid red;}.blog-box-bg-1.jsx-3978322762{background-image:url(\"/static/background-1.png\");background-repeat:no-repeat;padding:10px;}.blog-box-bg.jsx-3978322762{height:200px;width:100%;margin-bottom:15px;background-position:center center;background-size:contain;}.blog-meta.jsx-3978322762 i.jsx-3978322762{color:red;padding:10px;}.blog-box-content.jsx-3978322762 h3.jsx-3978322762{font-size:18px;}.blog-read-more.jsx-3978322762{color:white;background-color:red;padding:10px 20px;display:inline-block;font-size:14px;text-transform:uppercase;border-radius:12px;margin-bottom:20px;}.blog-read-more.jsx-3978322762:hover{background-color:black;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkU6XFx4YW1wIDE4XFxodGRvY3NcXGxpdmUtc2VydmVyXFxyZWFjdC13ZWItZGVzaWduLWNvZGVcXGNvbXBvbmVudHNcXHNlY3Rpb24tMS5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUF3RUssQUFHbUIsQUFHUyxBQUs4QixBQU9wQyxBQVFKLEFBS0ssQUFHRixBQVdTLFVBbEJOLEVBUU0sQ0EvQjFCLEFBZWdCLEVBYWIsT0F6QkgsQ0FzQkcsQUFpQkMsQ0F6Qm1CLFNBZUEsVUFkZ0IsTUFWTixFQXlCUCxxQkFDTixLQXpCSCxBQVVZLFVBZ0JDLEdBdkIzQixXQVFBLFdBZ0JxQixtQkFDRCxtQkFDdEIiLCJmaWxlIjoiRTpcXHhhbXAgMThcXGh0ZG9jc1xcbGl2ZS1zZXJ2ZXJcXHJlYWN0LXdlYi1kZXNpZ24tY29kZVxcY29tcG9uZW50c1xcc2VjdGlvbi0xLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0J1xyXG5pbXBvcnQgTmF2IGZyb20gJy4vbmF2J1xyXG5cclxuaW1wb3J0IEdsb2JhbEhlYWRlciBmcm9tICcuL2dsb2JhbGhlYWRlcic7XHJcblxyXG5jbGFzcyBTZWN0aW9uMSBleHRlbmRzIENvbXBvbmVudCB7XHJcbiAgcmVuZGVyKCkge1xyXG4gICAgcmV0dXJuIChcclxuICAgICAgPGRpdj5cclxuICAgICAgICBcclxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbnRhaW5lclwiIHN0eWxlPXt7bWFyZ2luQm90dG9tOjMwICsncHgnICB9fT5cclxuICAgICAgICAgPGRpdiBjbGFzc05hbWU9J3JvdyAnPlxyXG4gICAgICAgICAgPGRpdiBjbGFzc05hbWU9J2NvbC1tZC0xMiB0ZXh0LWNlbnRlcic+XHJcbiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cInNlY3Rpb24tdGl0bGVcIj5cclxuICAgICAgICAgIDxoMiA+TGF0ZXNyIE5ld3M8L2gyPlxyXG4gICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICBcclxuICAgICAgICAgIDxwID4tLS0tLS0tLS0tLS0tLS08L3A+XHJcbiAgICAgICAgICA8cCA+TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQgY29uc2VjdGV0dXIgYWRpcGlzaWNpbmcgZWxpdC48L3A+XHJcbiAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJyb3dcIj5cclxuICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbC1tZC00XCI+PGRpdiBjbGFzc05hbWU9XCJzaW5nbGUtYmxvZy1ib3hcIj5cclxuICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImJsb2ctYm94LWJnIGJsb2ctYm94LWJnLTFcIj48L2Rpdj5cclxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJibG9nLWJveC1jb250ZW50XCI+XHJcbiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPVwiYmxvZy1tZXRhXCI+XHJcbiAgICAgICAgICAgIDxhIGhyZWY9XCIjXCI+PGkgY2xhc3NOYW1lPVwiZmEgZmEtdXNlclwiIGFyaWEtaGlkZGVuPVwidHJ1ZVwiPjwvaT5GYWhtaWQgaG9zc2lhbjwvYT5cclxuICAgICAgICAgICAgPGkgY2xhc3NOYW1lPVwiZmEgZmEtY2FsZW5kYXJcIiBhcmlhLWhpZGRlbj1cInRydWVcIj48L2k+MjIgREVDLDIwMTlcclxuICAgICAgICAgICAgICA8L3A+XHJcbiAgICAgICAgICAgICAgPGgzID5Mb3JlbSwgaXBzdW0gZG9sb3Igc2l0IGFtZXQgY29uc2VjdGV0dXIgYWRpcGlzaWNpbmcgZWxpdC4gICAgICAgICAgICA8L2gzPlxyXG4gICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiYmxvZy1jb250ZW50XCI+XHJcbiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9XCJ0ZXh0LWp1c3RpZnlcIj5Mb3JlbSBpcHN1bSBkb2xvciwgc2l0IGFtZXQgY29uc2VjdGV0dXIgYWRpcGlzaWNpbmcgZWxpdC4gSXBzYSBpc3RlIGl0YXF1ZSBkaWduaXNzaW1vcyB1bmRlLCBxdWlhIGZ1Z2lhdCBxdWFlIGFsaXF1YW0gdm9sdXB0YXRlIG1hZ25pIG1vbGxpdGlhIGhpYyBtYWduYW0gYXQgcmVwdWRpYW5kYWUgcmVpY2llbmRpcyBjb25zZXF1YXR1ciBpcHN1bS4gTW9kaSwgaXVyZSBtb2xsaXRpYT88L3A+XHJcbiAgICAgICAgICAgICAgICA8YSBocmVmPVwiI1wiIGNsYXNzTmFtZT1cImJsb2ctcmVhZC1tb3JlXCI+UmVhZCBtb3JlPC9hPlxyXG4gICAgICAgICAgICAgICAgXHJcbiAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICAgICAgPC9kaXY+PC9kaXY+XHJcbiAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbC1tZC00XCI+PGRpdiBjbGFzc05hbWU9XCJzaW5nbGUtYmxvZy1ib3hcIj5cclxuICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImJsb2ctYm94LWJnIGJsb2ctYm94LWJnLTFcIj48L2Rpdj5cclxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJibG9nLWJveC1jb250ZW50XCI+XHJcbiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPVwiYmxvZy1tZXRhXCI+XHJcbiAgICAgICAgICAgIDxhIGhyZWY9XCIjXCI+PGkgY2xhc3NOYW1lPVwiZmEgZmEtdXNlclwiIGFyaWEtaGlkZGVuPVwidHJ1ZVwiPjwvaT5GYWhtaWQgaG9zc2lhbjwvYT5cclxuICAgICAgICAgICAgPGkgY2xhc3NOYW1lPVwiZmEgZmEtY2FsZW5kYXJcIiBhcmlhLWhpZGRlbj1cInRydWVcIj48L2k+MjIgREVDLDIwMTlcclxuICAgICAgICAgICAgICA8L3A+XHJcbiAgICAgICAgICAgICAgPGgzID5Mb3JlbSwgaXBzdW0gZG9sb3Igc2l0IGFtZXQgY29uc2VjdGV0dXIgYWRpcGlzaWNpbmcgZWxpdC4gICAgICAgICAgICA8L2gzPlxyXG4gICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiYmxvZy1jb250ZW50XCI+XHJcbiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9XCJ0ZXh0LWp1c3RpZnlcIj5Mb3JlbSBpcHN1bSBkb2xvciwgc2l0IGFtZXQgY29uc2VjdGV0dXIgYWRpcGlzaWNpbmcgZWxpdC4gSXBzYSBpc3RlIGl0YXF1ZSBkaWduaXNzaW1vcyB1bmRlLCBxdWlhIGZ1Z2lhdCBxdWFlIGFsaXF1YW0gdm9sdXB0YXRlIG1hZ25pIG1vbGxpdGlhIGhpYyBtYWduYW0gYXQgcmVwdWRpYW5kYWUgcmVpY2llbmRpcyBjb25zZXF1YXR1ciBpcHN1bS4gTW9kaSwgaXVyZSBtb2xsaXRpYT88L3A+XHJcbiAgICAgICAgICAgICAgICA8YSBocmVmPVwiI1wiIGNsYXNzTmFtZT1cImJsb2ctcmVhZC1tb3JlXCI+UmVhZCBtb3JlPC9hPlxyXG4gICAgICAgICAgICAgICAgXHJcbiAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICAgICAgPC9kaXY+PC9kaXY+XHJcbiAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbC1tZC00XCI+PGRpdiBjbGFzc05hbWU9XCJzaW5nbGUtYmxvZy1ib3hcIj5cclxuICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImJsb2ctYm94LWJnIGJsb2ctYm94LWJnLTFcIj48L2Rpdj5cclxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJibG9nLWJveC1jb250ZW50XCI+XHJcbiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPVwiYmxvZy1tZXRhXCI+XHJcbiAgICAgICAgICAgIDxhIGhyZWY9XCIjXCI+PGkgY2xhc3NOYW1lPVwiZmEgZmEtdXNlclwiIGFyaWEtaGlkZGVuPVwidHJ1ZVwiPjwvaT5GYWhtaWQgaG9zc2lhbjwvYT5cclxuICAgICAgICAgICAgPGkgY2xhc3NOYW1lPVwiZmEgZmEtY2FsZW5kYXJcIiBhcmlhLWhpZGRlbj1cInRydWVcIj48L2k+MjIgREVDLDIwMTlcclxuICAgICAgICAgICAgICA8L3A+XHJcbiAgICAgICAgICAgICAgPGgzID5Mb3JlbSwgaXBzdW0gZG9sb3Igc2l0IGFtZXQgY29uc2VjdGV0dXIgYWRpcGlzaWNpbmcgZWxpdC4gICAgICAgICAgICA8L2gzPlxyXG4gICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiYmxvZy1jb250ZW50XCI+XHJcbiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9XCJ0ZXh0LWp1c3RpZnlcIj5Mb3JlbSBpcHN1bSBkb2xvciwgc2l0IGFtZXQgY29uc2VjdGV0dXIgYWRpcGlzaWNpbmcgZWxpdC4gSXBzYSBpc3RlIGl0YXF1ZSBkaWduaXNzaW1vcyB1bmRlLCBxdWlhIGZ1Z2lhdCBxdWFlIGFsaXF1YW0gdm9sdXB0YXRlIG1hZ25pIG1vbGxpdGlhIGhpYyBtYWduYW0gYXQgcmVwdWRpYW5kYWUgcmVpY2llbmRpcyBjb25zZXF1YXR1ciBpcHN1bS4gTW9kaSwgaXVyZSBtb2xsaXRpYT88L3A+XHJcbiAgICAgICAgICAgICAgICA8YSBocmVmPVwiI1wiIGNsYXNzTmFtZT1cImJsb2ctcmVhZC1tb3JlXCI+UmVhZCBtb3JlPC9hPlxyXG4gICAgICAgICAgICAgICAgXHJcbiAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICAgICAgPC9kaXY+PC9kaXY+XHJcbiAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICA8L2Rpdj5cclxuICAgICAgIFxyXG4gICAgICAgIDxzdHlsZSBqc3g+XHJcbiAgICBcclxuICAgIHtgXHJcbiAgICAuc2luZ2xlLWJsb2ctYm94IHtcclxuICAgICAgcGFkZGluZzoxMHB4O1xyXG4gICB9XHJcbiAgICAuc2luZ2xlLWJsb2ctYm94OmhvdmVyIHtcclxuICAgICAgYm9yZGVyOi4ycHggc29saWQgcmVkO1xyXG4gICB9XHJcbiAgICBcclxuICAgICAgLmJsb2ctYm94LWJnLTEge1xyXG4gICAgICAgIFxyXG4gICAgICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChcIi9zdGF0aWMvYmFja2dyb3VuZC0xLnBuZ1wiKTtcclxuICAgICAgICBiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0O1xyXG4gICAgICAgIHBhZGRpbmc6MTBweDtcclxuICAgICAgICBcclxuICAgICAgIFxyXG4gICAgICB9XHJcbiAgICAgIC5ibG9nLWJveC1iZ3tcclxuICAgICAgICBoZWlnaHQ6IDIwMHB4O1xyXG4gICAgICAgIHdpZHRoOiAxMDAlO1xyXG4gICAgICAgIFxyXG4gICAgICAgIG1hcmdpbi1ib3R0b206MTVweDtcclxuICAgICAgICBiYWNrZ3JvdW5kLXBvc2l0aW9uOiBjZW50ZXIgY2VudGVyO1xyXG4gICAgICAgIGJhY2tncm91bmQtc2l6ZTogY29udGFpbjtcclxuICAgICAgfVxyXG4gICAgICAuYmxvZy1tZXRhIGl7XHJcbiAgICAgICAgY29sb3I6cmVkOyAgICAgICAgXHJcbiAgICAgICAgICBwYWRkaW5nOiAxMHB4O1xyXG4gICAgICBcclxuICAgICAgfVxyXG4gICAgICAuYmxvZy1ib3gtY29udGVudCBoM3tcclxuICAgICAgICBmb250LXNpemU6MThweDtcclxuICAgICAgfVxyXG4gICAgICAuYmxvZy1yZWFkLW1vcmUge1xyXG4gICAgICAgIGNvbG9yOiB3aGl0ZTtcclxuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7XHJcbiAgICAgICAgcGFkZGluZzogMTBweCAyMHB4O1xyXG4gICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jaztcclxuICAgICAgICBmb250LXNpemU6IDE0cHg7XHJcbiAgICAgICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcclxuICAgICAgICBib3JkZXItcmFkaXVzOiAxMnB4O1xyXG4gICAgICAgIG1hcmdpbi1ib3R0b206MjBweDtcclxuICAgIH1cclxuICAgIC5ibG9nLXJlYWQtbW9yZTpob3ZlciB7XHJcbiAgICAgIFxyXG4gICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBibGFjaztcclxuICAgICAgIH1cclxuICAgICAgXHJcbiAgICBgfTwvc3R5bGU+XHJcbiAgICAgICBcclxuICAgICAgIFxyXG4gICAgICA8L2Rpdj5cclxuICAgIClcclxuICB9XHJcbn1cclxuZXhwb3J0IGRlZmF1bHQgU2VjdGlvbjFcclxuIl19 */\n/*@ sourceURL=E:\\xamp 18\\htdocs\\live-server\\react-web-design-code\\components\\section-1.js */"));
+      }, __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-user-circle-o fa-5x",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 67
+        },
+        __self: this
+      })), __jsx("div", {
+        className: "jsx-1027468203" + " " + "price-service-list",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 69
+        },
+        __self: this
+      }, __jsx("ul", {
+        className: "jsx-1027468203",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 70
+        },
+        __self: this
+      }, __jsx("li", {
+        className: "jsx-1027468203",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 71
+        },
+        __self: this
+      }, " ", __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-check",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 71
+        },
+        __self: this
+      }), "2 GB Web Space"), __jsx("li", {
+        className: "jsx-1027468203",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 72
+        },
+        __self: this
+      }, " ", __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-times",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 72
+        },
+        __self: this
+      }), "Free Domain Register"), __jsx("li", {
+        className: "jsx-1027468203" + " " + "disable",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 73
+        },
+        __self: this
+      }, " ", __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-check",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 73
+        },
+        __self: this
+      }), "Special Offer"), __jsx("li", {
+        className: "jsx-1027468203",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 74
+        },
+        __self: this
+      }, " ", __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-times",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 74
+        },
+        __self: this
+      }), "Service Uptime"))), __jsx("div", {
+        className: "jsx-1027468203" + " " + "price text-center",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 77
+        },
+        __self: this
+      }, __jsx("h5", {
+        className: "jsx-1027468203",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 77
+        },
+        __self: this
+      }, "$15/Mo"), __jsx("button", {
+        type: "submit",
+        className: "jsx-1027468203",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 78
+        },
+        __self: this
+      }, "Order Now")))), __jsx("div", {
+        className: "jsx-1027468203" + " " + "col-md-3 col-sm-6",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 82
+        },
+        __self: this
+      }, __jsx("div", {
+        className: "jsx-1027468203" + " " + "price-section",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 83
+        },
+        __self: this
+      }, __jsx("h3", {
+        className: "jsx-1027468203",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 86
+        },
+        __self: this
+      }, "Personal"), __jsx("div", {
+        className: "jsx-1027468203" + " " + "price-icon",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 87
+        },
+        __self: this
+      }, __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-user-circle-o fa-5x",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 88
+        },
+        __self: this
+      })), __jsx("div", {
+        className: "jsx-1027468203" + " " + "price-service-list d-flex justify-content-center",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 90
+        },
+        __self: this
+      }, __jsx("ul", {
+        className: "jsx-1027468203",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 91
+        },
+        __self: this
+      }, __jsx("li", {
+        className: "jsx-1027468203",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 92
+        },
+        __self: this
+      }, " ", __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-check",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 92
+        },
+        __self: this
+      }), "2 GB Web Space"), __jsx("li", {
+        className: "jsx-1027468203",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 93
+        },
+        __self: this
+      }, " ", __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-times",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 93
+        },
+        __self: this
+      }), "Free Domain Register"), __jsx("li", {
+        className: "jsx-1027468203" + " " + "disable",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 94
+        },
+        __self: this
+      }, " ", __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-check",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 94
+        },
+        __self: this
+      }), "Special Offer"), __jsx("li", {
+        className: "jsx-1027468203",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 95
+        },
+        __self: this
+      }, " ", __jsx("i", {
+        "aria-hidden": "true",
+        className: "jsx-1027468203" + " " + "fa fa-times",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 95
+        },
+        __self: this
+      }), "Service Uptime"))), __jsx("div", {
+        className: "jsx-1027468203" + " " + "price text-center",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 98
+        },
+        __self: this
+      }, __jsx("h5", {
+        className: "jsx-1027468203",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 98
+        },
+        __self: this
+      }, "$15/Mo"), __jsx("button", {
+        type: "submit",
+        className: "jsx-1027468203",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 99
+        },
+        __self: this
+      }, "Order Now")))))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a, {
+        id: "1027468203",
+        __self: this
+      }, ".price-section.jsx-1027468203{border:1px solid #000;padding:6px;}.price-section.jsx-1027468203:hover{box-shadow:0px 1px 1px 1px green inset;-webkit-transition-duration:.5s;transition-duration:.5s;}.price-section.jsx-1027468203 h3.jsx-1027468203{text-align:center;}.price-icon.jsx-1027468203{text-align:center;padding-top:10px;padding-bottom:20px;}.price-service-list.jsx-1027468203 ul.jsx-1027468203{list-style:none;}.price-service-list.jsx-1027468203 ul.jsx-1027468203 li.jsx-1027468203 i.jsx-1027468203{padding-right:12px;font-size:16px;}.disable.jsx-1027468203>i.jsx-1027468203{color:red;}.price.jsx-1027468203 button.jsx-1027468203{background-color:white;border:1px solid #000;padding:15px;border-radius:23px;margin-top:16px;margin-bottom:16px;}.price.jsx-1027468203 button.jsx-1027468203:hover{background-color:#000;color:white;-webkit-transition-duration:.5s;transition-duration:.5s;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkU6XFx4YW1wIDE4XFxodGRvY3NcXGxpdmUtc2VydmVyXFxyZWFjdC13ZWItZGVzaWduLWNvZGVcXGNvbXBvbmVudHNcXHNlY3Rpb24tMy5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUE4R0ssQUFJd0IsQUFNa0IsQUFJbEIsQUFJQSxBQU9DLEFBSUUsQUFJVCxBQUlzQixBQVFELFVBVmhDLE1BVEEsRUFWSCxBQUdtQixDQVdBLEdBekJULEFBMENjLENBVFcsV0EvQnRDLEFBd0JNLEFBaUJrQyxDQTVCZixJQVRDLE1BNEJHLFVBbEIxQixHQW1CZ0MsbUJBQ0gsYUFTbEIsR0FScUIsRUE5Qm5DLGlCQStCYyIsImZpbGUiOiJFOlxceGFtcCAxOFxcaHRkb2NzXFxsaXZlLXNlcnZlclxccmVhY3Qtd2ViLWRlc2lnbi1jb2RlXFxjb21wb25lbnRzXFxzZWN0aW9uLTMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QsIHsgQ29tcG9uZW50IH0gZnJvbSAncmVhY3QnXHJcblxyXG5jbGFzcyBTZWN0aW9uMSBleHRlbmRzIENvbXBvbmVudCB7XHJcbiAgcmVuZGVyKCkge1xyXG4gICAgcmV0dXJuIChcclxuICAgICAgPGRpdj5cclxuICAgICAgICBcclxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbnRhaW5lclwiIHN0eWxlPXt7bWFyZ2luQm90dG9tOjMwICsncHgnICB9fT5cclxuICAgICAgICAgPGRpdiBjbGFzc05hbWU9J3JvdyAnPlxyXG4gICAgICAgICAgPGRpdiBjbGFzc05hbWU9J2NvbC1tZC0xMiB0ZXh0LWNlbnRlciBtYi0zJz5cclxuICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwic2VjdGlvbi10aXRsZVwiPlxyXG4gICAgICAgICAgPGgyID5QcmljaW5nIFBsYW48L2gyPlxyXG4gICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICBcclxuICAgICAgICAgIDxwID5Mb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCBjb25zZWN0ZXR1ciBhZGlwaXNpY2luZyBlbGl0LjwvcD5cclxuICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJyb3dcIj5cclxuICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sLW1kLTMgY29sLXNtLTZcIj5cclxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJwcmljZS1zZWN0aW9uXCI+XHJcblxyXG4gICAgICAgICAgICBcclxuICAgICAgICAgICAgPGgzPlBlcnNvbmFsPC9oMz5cclxuPGRpdiBjbGFzc05hbWU9XCJwcmljZS1pY29uXCI+XHJcbjxpIGNsYXNzTmFtZT1cImZhIGZhLXVzZXItY2lyY2xlLW8gZmEtNXhcIiBhcmlhLWhpZGRlbj1cInRydWVcIj48L2k+XHJcbjwvZGl2PlxyXG48ZGl2IGNsYXNzTmFtZT1cInByaWNlLXNlcnZpY2UtbGlzdFwiPlxyXG4gIDx1bD5cclxuICAgIDxsaT4gPGkgY2xhc3NOYW1lPVwiZmEgZmEtY2hlY2tcIiBhcmlhLWhpZGRlbj1cInRydWVcIj48L2k+MiBHQiBXZWIgU3BhY2U8L2xpPlxyXG4gICAgPGxpPiA8aSBjbGFzc05hbWU9XCJmYSBmYS10aW1lc1wiIGFyaWEtaGlkZGVuPVwidHJ1ZVwiPjwvaT5GcmVlIERvbWFpbiBSZWdpc3RlcjwvbGk+XHJcbiAgICA8bGkgY2xhc3NOYW1lPVwiZGlzYWJsZVwiPiA8aSBjbGFzc05hbWU9XCJmYSBmYS1jaGVja1wiIGFyaWEtaGlkZGVuPVwidHJ1ZVwiPjwvaT5TcGVjaWFsIE9mZmVyPC9saT5cclxuICAgIDxsaT4gPGkgY2xhc3NOYW1lPVwiZmEgZmEtdGltZXNcIiBhcmlhLWhpZGRlbj1cInRydWVcIj48L2k+U2VydmljZSBVcHRpbWU8L2xpPlxyXG4gIDwvdWw+XHJcbjwvZGl2PlxyXG48ZGl2IGNsYXNzTmFtZT1cInByaWNlIHRleHQtY2VudGVyXCI+PGg1PiQxNS9NbzwvaDU+XHJcbjxidXR0b24gdHlwZT1cInN1Ym1pdFwiPk9yZGVyIE5vdzwvYnV0dG9uPlxyXG48L2Rpdj5cclxuPC9kaXY+XHJcbiAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sLW1kLTMgY29sLXNtLTZcIj5cclxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJwcmljZS1zZWN0aW9uXCI+XHJcblxyXG4gICAgICAgICAgICBcclxuICAgICAgICAgICAgPGgzPlBlcnNvbmFsPC9oMz5cclxuPGRpdiBjbGFzc05hbWU9XCJwcmljZS1pY29uXCI+XHJcbjxpIGNsYXNzTmFtZT1cImZhIGZhLXVzZXItY2lyY2xlLW8gZmEtNXhcIiBhcmlhLWhpZGRlbj1cInRydWVcIj48L2k+XHJcbjwvZGl2PlxyXG48ZGl2IGNsYXNzTmFtZT1cInByaWNlLXNlcnZpY2UtbGlzdFwiPlxyXG4gIDx1bD5cclxuICAgIDxsaT4gPGkgY2xhc3NOYW1lPVwiZmEgZmEtY2hlY2tcIiBhcmlhLWhpZGRlbj1cInRydWVcIj48L2k+MiBHQiBXZWIgU3BhY2U8L2xpPlxyXG4gICAgPGxpPiA8aSBjbGFzc05hbWU9XCJmYSBmYS10aW1lc1wiIGFyaWEtaGlkZGVuPVwidHJ1ZVwiPjwvaT5GcmVlIERvbWFpbiBSZWdpc3RlcjwvbGk+XHJcbiAgICA8bGkgY2xhc3NOYW1lPVwiZGlzYWJsZVwiPiA8aSBjbGFzc05hbWU9XCJmYSBmYS1jaGVja1wiIGFyaWEtaGlkZGVuPVwidHJ1ZVwiPjwvaT5TcGVjaWFsIE9mZmVyPC9saT5cclxuICAgIDxsaT4gPGkgY2xhc3NOYW1lPVwiZmEgZmEtdGltZXNcIiBhcmlhLWhpZGRlbj1cInRydWVcIj48L2k+U2VydmljZSBVcHRpbWU8L2xpPlxyXG4gIDwvdWw+XHJcbjwvZGl2PlxyXG48ZGl2IGNsYXNzTmFtZT1cInByaWNlIHRleHQtY2VudGVyXCI+PGg1PiQxNS9NbzwvaDU+XHJcbjxidXR0b24gdHlwZT1cInN1Ym1pdFwiPk9yZGVyIE5vdzwvYnV0dG9uPlxyXG48L2Rpdj5cclxuPC9kaXY+XHJcbiAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sLW1kLTMgY29sLXNtLTZcIj5cclxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJwcmljZS1zZWN0aW9uXCI+XHJcblxyXG4gICAgICAgICAgICBcclxuICAgICAgICAgICAgPGgzPlBlcnNvbmFsPC9oMz5cclxuPGRpdiBjbGFzc05hbWU9XCJwcmljZS1pY29uXCI+XHJcbjxpIGNsYXNzTmFtZT1cImZhIGZhLXVzZXItY2lyY2xlLW8gZmEtNXhcIiBhcmlhLWhpZGRlbj1cInRydWVcIj48L2k+XHJcbjwvZGl2PlxyXG48ZGl2IGNsYXNzTmFtZT1cInByaWNlLXNlcnZpY2UtbGlzdFwiPlxyXG4gIDx1bD5cclxuICAgIDxsaT4gPGkgY2xhc3NOYW1lPVwiZmEgZmEtY2hlY2tcIiBhcmlhLWhpZGRlbj1cInRydWVcIj48L2k+MiBHQiBXZWIgU3BhY2U8L2xpPlxyXG4gICAgPGxpPiA8aSBjbGFzc05hbWU9XCJmYSBmYS10aW1lc1wiIGFyaWEtaGlkZGVuPVwidHJ1ZVwiPjwvaT5GcmVlIERvbWFpbiBSZWdpc3RlcjwvbGk+XHJcbiAgICA8bGkgY2xhc3NOYW1lPVwiZGlzYWJsZVwiPiA8aSBjbGFzc05hbWU9XCJmYSBmYS1jaGVja1wiIGFyaWEtaGlkZGVuPVwidHJ1ZVwiPjwvaT5TcGVjaWFsIE9mZmVyPC9saT5cclxuICAgIDxsaT4gPGkgY2xhc3NOYW1lPVwiZmEgZmEtdGltZXNcIiBhcmlhLWhpZGRlbj1cInRydWVcIj48L2k+U2VydmljZSBVcHRpbWU8L2xpPlxyXG4gIDwvdWw+XHJcbjwvZGl2PlxyXG48ZGl2IGNsYXNzTmFtZT1cInByaWNlIHRleHQtY2VudGVyXCI+PGg1PiQxNS9NbzwvaDU+XHJcbjxidXR0b24gdHlwZT1cInN1Ym1pdFwiPk9yZGVyIE5vdzwvYnV0dG9uPlxyXG48L2Rpdj5cclxuPC9kaXY+XHJcbiAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sLW1kLTMgY29sLXNtLTZcIj5cclxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJwcmljZS1zZWN0aW9uXCI+XHJcblxyXG4gICAgICAgICAgICBcclxuICAgICAgICAgICAgPGgzPlBlcnNvbmFsPC9oMz5cclxuPGRpdiBjbGFzc05hbWU9XCJwcmljZS1pY29uXCI+XHJcbjxpIGNsYXNzTmFtZT1cImZhIGZhLXVzZXItY2lyY2xlLW8gZmEtNXhcIiBhcmlhLWhpZGRlbj1cInRydWVcIj48L2k+XHJcbjwvZGl2PlxyXG48ZGl2IGNsYXNzTmFtZT1cInByaWNlLXNlcnZpY2UtbGlzdCBkLWZsZXgganVzdGlmeS1jb250ZW50LWNlbnRlclwiPlxyXG4gIDx1bD5cclxuICAgIDxsaT4gPGkgY2xhc3NOYW1lPVwiZmEgZmEtY2hlY2tcIiBhcmlhLWhpZGRlbj1cInRydWVcIj48L2k+MiBHQiBXZWIgU3BhY2U8L2xpPlxyXG4gICAgPGxpPiA8aSBjbGFzc05hbWU9XCJmYSBmYS10aW1lc1wiIGFyaWEtaGlkZGVuPVwidHJ1ZVwiPjwvaT5GcmVlIERvbWFpbiBSZWdpc3RlcjwvbGk+XHJcbiAgICA8bGkgY2xhc3NOYW1lPVwiZGlzYWJsZVwiPiA8aSBjbGFzc05hbWU9XCJmYSBmYS1jaGVja1wiIGFyaWEtaGlkZGVuPVwidHJ1ZVwiPjwvaT5TcGVjaWFsIE9mZmVyPC9saT5cclxuICAgIDxsaT4gPGkgY2xhc3NOYW1lPVwiZmEgZmEtdGltZXNcIiBhcmlhLWhpZGRlbj1cInRydWVcIj48L2k+U2VydmljZSBVcHRpbWU8L2xpPlxyXG4gIDwvdWw+XHJcbjwvZGl2PlxyXG48ZGl2IGNsYXNzTmFtZT1cInByaWNlIHRleHQtY2VudGVyXCI+PGg1PiQxNS9NbzwvaDU+XHJcbjxidXR0b24gdHlwZT1cInN1Ym1pdFwiPk9yZGVyIE5vdzwvYnV0dG9uPlxyXG48L2Rpdj5cclxuPC9kaXY+XHJcbiAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgIFxyXG4gICAgICAgICAgXHJcbiAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgXHJcbiAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgXHJcbiAgICAgICAgPHN0eWxlIGpzeD5cclxuICAgIFxyXG4gICAge2BcclxuXHJcbi5wcmljZS1zZWN0aW9uIHtcclxuICBib3JkZXI6MXB4IHNvbGlkICMwMDA7XHJcbiAgcGFkZGluZzo2cHg7XHJcbiAgXHJcbn1cclxuLnByaWNlLXNlY3Rpb246aG92ZXIge1xyXG4gIFxyXG4gIGJveC1zaGFkb3c6IDBweCAxcHggMXB4IDFweCBncmVlbiBpbnNldDtcclxuICB0cmFuc2l0aW9uLWR1cmF0aW9uOiAuNXM7XHJcbn1cclxuICAgIC5wcmljZS1zZWN0aW9uIGgzIHtcclxuICAgICAgdGV4dC1hbGlnbjpjZW50ZXI7XHJcbiAgICAgIFxyXG4gICB9XHJcbiAgICAucHJpY2UtaWNvbiB7XHJcbiAgICAgIHRleHQtYWxpZ246Y2VudGVyO1xyXG4gICAgICBwYWRkaW5nLXRvcDoxMHB4O1xyXG4gICAgICBwYWRkaW5nLWJvdHRvbToyMHB4O1xyXG4gICB9XHJcbiAgICBcclxuICAgXHJcbiAgICAgIC5wcmljZS1zZXJ2aWNlLWxpc3QgdWx7XHJcbiAgICAgICAgbGlzdC1zdHlsZTogbm9uZTtcclxuICAgICAgfVxyXG4gICAgICAucHJpY2Utc2VydmljZS1saXN0IHVsIGxpIGl7XHJcbiAgICAgICAgXHJcbiAgICAgICAgcGFkZGluZy1yaWdodDoxMnB4O1xyXG4gICAgICAgIGZvbnQtc2l6ZToxNnB4O1xyXG4gICAgICB9XHJcbiAgICAgIC5kaXNhYmxlPml7XHJcbiAgICAgICAgY29sb3I6cmVkO1xyXG5cclxuICAgICAgfVxyXG4gICAgICAgICAgICAgIC5wcmljZSBidXR0b257XHJcbiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTtcclxuICAgICAgICAgICAgICAgIGJvcmRlcjogMXB4IHNvbGlkICMwMDA7XHJcbiAgICAgICAgICAgICAgICBwYWRkaW5nOiAxNXB4O1xyXG4gICAgICAgICAgICAgICAgYm9yZGVyLXJhZGl1czogMjNweDtcclxuICAgICAgICAgICAgICAgIG1hcmdpbi10b3A6IDE2cHg7XHJcbiAgICAgICAgICAgICAgICBtYXJnaW4tYm90dG9tOiAxNnB4O1xyXG4gICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgICAucHJpY2UgYnV0dG9uOmhvdmVye1xyXG4gICAgICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzAwMDtcclxuICAgICAgICAgICAgICAgIFxyXG4gICAgICAgICAgICAgICAgY29sb3I6d2hpdGU7XHJcbiAgICAgICAgICAgICAgICB0cmFuc2l0aW9uLWR1cmF0aW9uOiAuNXM7XHJcblxyXG4gICAgICAgICAgICAgIH1cclxuICAgIGB9PC9zdHlsZT5cclxuICAgICAgIFxyXG4gICAgICAgXHJcbiAgICAgIDwvZGl2PlxyXG4gICAgKVxyXG4gIH1cclxufVxyXG5leHBvcnQgZGVmYXVsdCBTZWN0aW9uMVxyXG4iXX0= */\n/*@ sourceURL=E:\\xamp 18\\htdocs\\live-server\\react-web-design-code\\components\\section-3.js */"));
     }
   }]);
 
@@ -4277,21 +4530,21 @@ exports["default"] = function () {
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fsection-1&absolutePagePath=E%3A%5Cxamp%2018%5Chtdocs%5Clive-server%5Creact-web-design-code%5Cpages%5Csection-1.js!./":
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fsection-3&absolutePagePath=E%3A%5Cxamp%2018%5Chtdocs%5Clive-server%5Creact-web-design-code%5Cpages%5Csection-3.js!./":
 /*!************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fsection-1&absolutePagePath=E%3A%5Cxamp%2018%5Chtdocs%5Clive-server%5Creact-web-design-code%5Cpages%5Csection-1.js ***!
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fsection-3&absolutePagePath=E%3A%5Cxamp%2018%5Chtdocs%5Clive-server%5Creact-web-design-code%5Cpages%5Csection-3.js ***!
   \************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 
-    (window.__NEXT_P=window.__NEXT_P||[]).push(["/section-1", function() {
-      var page = __webpack_require__(/*! ./pages/section-1.js */ "./pages/section-1.js")
+    (window.__NEXT_P=window.__NEXT_P||[]).push(["/section-3", function() {
+      var page = __webpack_require__(/*! ./pages/section-3.js */ "./pages/section-3.js")
       if(true) {
-        module.hot.accept(/*! ./pages/section-1.js */ "./pages/section-1.js", function() {
-          if(!next.router.components["/section-1"]) return
-          var updatedPage = __webpack_require__(/*! ./pages/section-1.js */ "./pages/section-1.js")
-          next.router.update("/section-1", updatedPage.default || updatedPage)
+        module.hot.accept(/*! ./pages/section-3.js */ "./pages/section-3.js", function() {
+          if(!next.router.components["/section-3"]) return
+          var updatedPage = __webpack_require__(/*! ./pages/section-3.js */ "./pages/section-3.js")
+          next.router.update("/section-3", updatedPage.default || updatedPage)
         })
       }
       return { page: page.default || page }
@@ -5254,9 +5507,9 @@ module.exports = __webpack_require__(/*! ./dist/style */ "./node_modules/styled-
 
 /***/ }),
 
-/***/ "./pages/section-1.js":
+/***/ "./pages/section-3.js":
 /*!****************************!*\
-  !*** ./pages/section-1.js ***!
+  !*** ./pages/section-3.js ***!
   \****************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -5270,14 +5523,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _components_section_1__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/section-1 */ "./components/section-1.js");
+/* harmony import */ var _components_section_3__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/section-3 */ "./components/section-3.js");
 /* harmony import */ var _components_layout__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../components/layout */ "./components/layout.js");
 
 
 
 
 
-var _jsxFileName = "E:\\xamp 18\\htdocs\\live-server\\react-web-design-code\\pages\\section-1.js";
+var _jsxFileName = "E:\\xamp 18\\htdocs\\live-server\\react-web-design-code\\pages\\section-3.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement;
 
 
@@ -5318,14 +5571,14 @@ function (_Component) {
         __self: this
       }, __jsx("a", {
         type: "button",
-        href: "/section-2",
+        href: "/section-4",
         className: "btn btn-primary m-2 ",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 13
         },
         __self: this
-      }, "Next Section")), __jsx(_components_section_1__WEBPACK_IMPORTED_MODULE_6__["default"], {
+      }, "Next Section")), __jsx(_components_section_3__WEBPACK_IMPORTED_MODULE_6__["default"], {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 16
@@ -5342,14 +5595,14 @@ function (_Component) {
 
 /***/ }),
 
-/***/ 3:
+/***/ 0:
 /*!****************************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2Fsection-1&absolutePagePath=E%3A%5Cxamp%2018%5Chtdocs%5Clive-server%5Creact-web-design-code%5Cpages%5Csection-1.js ***!
+  !*** multi next-client-pages-loader?page=%2Fsection-3&absolutePagePath=E%3A%5Cxamp%2018%5Chtdocs%5Clive-server%5Creact-web-design-code%5Cpages%5Csection-3.js ***!
   \****************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fsection-1&absolutePagePath=E%3A%5Cxamp%2018%5Chtdocs%5Clive-server%5Creact-web-design-code%5Cpages%5Csection-1.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fsection-1&absolutePagePath=E%3A%5Cxamp%2018%5Chtdocs%5Clive-server%5Creact-web-design-code%5Cpages%5Csection-1.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fsection-3&absolutePagePath=E%3A%5Cxamp%2018%5Chtdocs%5Clive-server%5Creact-web-design-code%5Cpages%5Csection-3.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fsection-3&absolutePagePath=E%3A%5Cxamp%2018%5Chtdocs%5Clive-server%5Creact-web-design-code%5Cpages%5Csection-3.js!./");
 
 
 /***/ }),
@@ -5365,5 +5618,5 @@ module.exports = dll_01f9a3fa864a7b7414d8;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]);
-//# sourceMappingURL=section-1.js.map
+},[[0,"static/runtime/webpack.js"]]]);
+//# sourceMappingURL=section-3.js.map

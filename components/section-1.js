@@ -1,7 +1,5 @@
 import React, { Component } from 'react'
-import Nav from './nav'
 
-import GlobalHeader from './globalheader';
 
 class Section1 extends Component {
   render() {

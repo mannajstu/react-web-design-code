@@ -15,6 +15,7 @@ const Home = () => (
         <div className="col-md-12">
         <a type="button" href="/section-1" className="btn btn-primary m-2">Section 1</a>
     <a type="button" href="/section-2" className="btn btn-primary m-2">Section 2</a>
+    <a type="button" href="/section-3" className="btn btn-primary m-2">Section 3</a>
         </div>
       
       </div>

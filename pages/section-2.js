@@ -7,7 +7,7 @@ class About extends Component {
     return (
       <div>
        <Layout>
-                
+       <a type="button" href="/section-3" className="btn btn-primary m-2 ">Next Section</a>      
        <Section2/>
 
         </Layout>
