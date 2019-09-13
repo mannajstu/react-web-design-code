@@ -1,1 +1,1 @@
-https://react-web-design-code.netlify.com/
+https://react-web-design.netlify.com/

@@ -6,9 +6,9 @@ class About extends Component {
   render() {
     return (
       <div>
-       <Layout>
+       <Layout title="Section 2">
        <a type="button" href="/section-3" className="btn btn-primary m-2 ">Next Section</a>      
-       <Section2/>
+       <Section2 />
 
         </Layout>
        

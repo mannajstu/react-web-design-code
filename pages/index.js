@@ -1,29 +1,26 @@
 import React from 'react'
-import Nav from '../components/nav'
-import GlobalHeader from '../components/globalheader';
-
-
+import Layout from '../components/layout';
 
 const Home = () => (
   <div>
-     <GlobalHeader title="Home"/>
-    <Nav/>
+       
     
-    
+    <Layout title="Home">
     <div className="container text-center">
       <div className="row">
         <div className="col-md-12">
         <a type="button" href="/section-1" className="btn btn-primary m-2">Section 1</a>
     <a type="button" href="/section-2" className="btn btn-primary m-2">Section 2</a>
     <a type="button" href="/section-3" className="btn btn-primary m-2">Section 3</a>
+    <a type="button" href="/section-4" className="btn btn-primary m-2">Section 4 (Owl Slider)</a>
         </div>
       
       </div>
     
     
     </div>
-    
-    
+
+        </Layout>
 
     
     
