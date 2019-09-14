@@ -33,6 +33,8 @@ class Section4 extends Component {
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"  /> 
+        
+        </Head>
         <style>
         {`
 .owl-theme .owl-nav {
@@ -42,8 +44,6 @@ class Section4 extends Component {
 }
         `}
         </style>
-        </Head>
-        
         <div className="container" style={{marginBottom:30 +'px'  }}>
          <div className='row '>
           <div className='col-md-12 text-center mb-3'>
