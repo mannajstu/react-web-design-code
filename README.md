@@ -1,1 +1,1 @@
-https://aibdtech.com/
+http://aibdtech.com/
